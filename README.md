@@ -1,1 +1,3 @@
 # manageUsersCE
+
+- This repository houses an API and Postman Collections that can be used for...
